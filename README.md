@@ -6,14 +6,14 @@ Click on this link directly to see the deployed app using the Streamlit cloud an
 
 ## Welcome to my streamlit app!
 
-This is a small python project to show how easy it is to use the streamlit python library to deploy simple apps through your git hub account :)
+This is a small python project to show how easy it is to use the streamlit python library to deploy simple apps through your GitHub account :)
 Streamlit documentation is easily found through Google.
 
 All you need is to install the python library using the requirements.txt file (preferrably install it into a python virtual environment as best practice).
 
-When your environment is set up, in the root project folder run the command: 
+When your environment is set up, run this command in the root project folder:
 
-**streamlit run app.py**
+`streamlit run app.py`
 
 ## Birthday Reminder App
 

@@ -1,5 +1,9 @@
 # simple-streamlit-app
 
+Click on this link directly to see the deployed app using the Streamlit cloud and GitHub:
+
+*https://crisolo527-simple-streamlit-app-app-ghednd.streamlit.app/*
+
 ## Welcome to my streamlit app!
 
 This is a small python project to show how easy it is to use the streamlit python library to deploy simple apps through your git hub account :)
